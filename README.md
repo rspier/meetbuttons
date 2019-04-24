@@ -5,6 +5,8 @@ Physical mute buttons for your Google Hangouts Meet Hardware!
 Use an Arduino Leonardo to send the mute audio/video keystrokes, so you don't
 need to hit the touchscreen.
 
+![Image of Buttons and Arduino](actual.jpg)
+
 ## Bill of Materials
 
 * [Arduino Leonardo](https://www.adafruit.com/product/849) or similar ATmega32u4
